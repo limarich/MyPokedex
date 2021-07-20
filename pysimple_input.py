@@ -66,3 +66,4 @@ def saida(nome,id,url,ataque,vida,defesa):
         setIndex(aux)
         pokeapi.buscar(aux)
     window.close()
+ 

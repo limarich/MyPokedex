@@ -33,7 +33,7 @@ def weightInfo():
             nome = info["nome"]
             peso = info["peso"]
             print(f"\npeso dos pokemon {i} de 20:\n{nome} : {peso}")
-def buscar(poke):
+def buscar(poke): 
     api = f"https://pokeapi.co/api/v2/pokemon/{poke}"
     pokemon = (requests.get(api)).json()
     info = getDados(pokemon)
