@@ -7,7 +7,7 @@ Minha pokedex desenvolvida em python, utiliza as libs requests,pysimplegui e ram
 ### Sobre
     Minha própria Pokedex desenvolvida em python
 -----
-![Game](https://github.com/limarich/Space-Game/blob/master/Anima%C3%A7%C3%A3o.gif)
+![Pokeapi](https://github.com/limarich/MyPokedex/blob/master/Anima%C3%A7%C3%A3o1.gif)
 
 ### Objetivos
 - construir uma interface com o pySimpleGUI 
