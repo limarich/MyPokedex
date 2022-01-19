@@ -6,7 +6,7 @@
     Minha própria Pokedex desenvolvida em python
 -----
 
-![Game](https://github.com/limarich/MyPokedex/blob/master/Anima%C3%A7%C3%A3o1.gif)
+![Game](https://github.com/limarich/MyPokedex/blob/main/Anima%C3%A7%C3%A3o1.gif)
 
 ### Objetivos
 - construir uma interface com o pySimpleGUI 
