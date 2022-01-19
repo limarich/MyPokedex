@@ -1,14 +1,11 @@
 # MyPokedex
-Minha pokedex desenvolvida em python, utiliza as libs requests,pysimplegui e ramdom. Os dados são consumidos diretamente de uma API
-<<<<<<< HEAD
-=======
-# MyPokedex
 ### _Conheça mais sobre seu pokemon antes que ele fuja!!!_ 🧐
 
 
 ### Sobre
     Minha própria Pokedex desenvolvida em python
 -----
+
 ![Pokeapi](https://github.com/limarich/MyPokedex/blob/master/Anima%C3%A7%C3%A3o1.gif)
 
 ### Objetivos
@@ -51,4 +48,4 @@ Minha pokedex desenvolvida em python, utiliza as libs requests,pysimplegui e ram
 ------------
 
 _Feito por Richard Lima Ribeiro_ 👦💻
->>>>>>> 123bcf668834472ca4fe7040ef24e5c17afb2cad
+
